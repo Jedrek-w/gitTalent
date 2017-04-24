@@ -1,6 +1,4 @@
 # gitTalent
-<<<<<<< HEAD
 ## create a new branch and fool
-=======
-## create a new branch and fool
->>>>>>> feature1
+## 一个新的commit
+
