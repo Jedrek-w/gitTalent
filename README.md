@@ -1,2 +1,6 @@
 # gitTalent
-## create a new branch and smart
+<<<<<<< HEAD
+## create a new branch and fool
+=======
+## create a new branch and fool
+>>>>>>> feature1
